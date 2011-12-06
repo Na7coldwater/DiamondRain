@@ -1,0 +1,8 @@
+name: DiamondRain
+main: me.Na7coldwater.DiamondRain.DiamondRain
+version: 0.0.0
+commands:
+   diamondrain:
+      description: Makes diamonds rain from the sky
+      permission: DiamondRain.startRain
+      usage: /diamondrain <start [duration]|stop>
